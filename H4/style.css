@@ -1,0 +1,30 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 550px 250px 400px;
+    grid-template-rows: auto auto auto;
+}
+.wrapper div {
+    background: lightgray;
+    padding: 5px;
+}
+nav {
+    padding: 10px;
+    background: black;
+    text-align: center;
+}
+a {
+    color: white;
+    font-size: 20px;
+    padding: 75px;
+    text-decoration: none;
+}
+table, th, td {
+    border: 2px solid #000;
+    border-collapse: collapse;
+}
+th, td {
+    width: 75px;
+}
+td {
+    text-align: left;
+}
