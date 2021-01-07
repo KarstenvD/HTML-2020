@@ -1,4 +1,4 @@
-@media (min-width: 300px) {
+@media all and (min-width: 300px) and (max-width: 1023px){
     body {
         background-color: lightgray;
     }
@@ -21,14 +21,15 @@ nav img {
     left: 10px;
     top: 10px;
 }
-    .section1 {
+    .section1, .section2 {
         text-align: center;
+        width: 100%;
     }
-    .section2 {
-        text-align: center;
+    .section1 img, .section2 img {
+        width: 100%;
     }
     .art3 img {
-        width: 600px;
+        width: 50%;
     }
     .title {
         background-color: rgb(41,41,41);
