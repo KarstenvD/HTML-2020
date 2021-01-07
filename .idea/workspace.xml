@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcdccdbb-af20-480c-88fa-2328c0331573" name="Default Changelist" comment="Added HFs on main page">
-      <change afterPath="$PROJECT_DIR$/H5/formulier.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5/fstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H5/login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bcdccdbb-af20-480c-88fa-2328c0331573" name="Default Changelist" comment="Making responsive website">
       <change beforePath="$PROJECT_DIR$/H5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/H5/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609750279062</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Making responsive website">
+      <created>1610005831615</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610005831615</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +117,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="made a new website, used grid for the first time." />
     <MESSAGE value="Added HFs on main page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HFs on main page" />
+    <MESSAGE value="Making responsive website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Making responsive website" />
   </component>
 </project>
