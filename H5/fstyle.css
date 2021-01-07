@@ -1,0 +1,47 @@
+body {
+    background-color: lightgray;
+}
+nav {
+    font-size: 20px;
+    background-color: rgb(41,41,41);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 20px 75px;
+}
+nav img {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+a:hover {
+    background-color: gray;
+}
+.wrapperform {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+}
+.div1 {
+    background-color: blue;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+.div1 form input, select {
+    position: absolute;
+    left: 150px;
+}
+.div2 {
+    background-color: red;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="fstyle.css">
+    <title>Burton inloggen</title>
+</head>
+<body>
+<nav>
+    <img src="img/logo.jpg" width="75" height="75">
+    <a href="#">Over ons</a>
+    <a href="#">Produkten</a>
+    <a href="#">Contact</a>
+    <a href="#">Formulier</a>
+    <a href="#">Projecten</a>
+</nav>
+<br><br><br><br><br>
+<div class="wrapperform">
+    <form action="https://www.savatarian.com/html5/form.php" target="_blank" method="get">
+    <div class="div1">
+    <span class="verplicht">* verplicht in vullen</span><br><br>
+    <label for="loginnaam">Gebruikersnaam:</label>
+    <input type="text" name="loginnaam" id="loginnaam"><br><br>
+    <label for="wachtwoord">Wachtwoord:</label>
+    <input type="text" name="wachtwoord" id="wachtwoord"><br><br>
+    <input type="radio" id="man" name="gesl" value="man">
+    <label for="man">Man</label><br>
+    <input type="radio" id="vrouw" name="gesl" value="vrouw">
+    <label for="vrouw">Vrouw</label><br>
+    <input type="radio" id="anders" name="gesl" value="anders">
+    <label for="anders">Anders</label><br><br>
+    <label for="cars">Kleur ogen:</label>
+    <select name="cars" id="cars">
+        <option value="rood">Rood</option>
+        <option value="blauw">Blauw</option>
+        <option value="groen">Groen</option>
+        <option value="zwart">zwart</option>
+    </select><br><br>
+    <label for="verjaardag">Geboortedatum:</label>
+    <input type="date" id="verjaardag" name="verjaardag"><br><br>
+    <label>Omschrijving:</label><br><br>
+    <textarea rows="4" cols="50" name="comment"></textarea><br><br>
+    <input type="submit" name="knop">
+    </div>
+    <div class="div2">
+        <input type="checkbox" id="eten1" name="eten1" value="hamburger">
+        <label for="eten1">Hamburger</label><br>
+        <input type="checkbox" id="eten2" name="eten2" value="spruitjes">
+        <label for="eten2">Spruitjes</label><br>
+        <input type="checkbox" id="eten3" name="eten3" value="gehaktbal">
+        <label for="eten3">Gehaktbal</label>
+    </div>
+    </form>
+</div>
+</body>
+</html>
