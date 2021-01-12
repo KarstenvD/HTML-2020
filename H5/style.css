@@ -1,4 +1,4 @@
-@media all and (min-width: 300px) and (max-width: 1023px){
+@media all and (min-width: 300px) and (max-width: 1024px){
     body {
         background-color: lightgray;
     }
@@ -91,6 +91,12 @@ nav img {
     }
     .section2 img {
         padding-bottom: 10px;
+    }
+    .section1, .section2 {
+        width: 100%;
+    }
+    .section1 img, .section2 img {
+        width: 95%;
     }
     .title {
         background-color: rgb(41,41,41);
