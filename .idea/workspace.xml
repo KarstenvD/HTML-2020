@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcdccdbb-af20-480c-88fa-2328c0331573" name="Default Changelist" comment="Making responsive website">
+      <change afterPath="$PROJECT_DIR$/H6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H6/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H5/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/H5/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H5/formulier.html" beforeDir="false" afterPath="$PROJECT_DIR$/H5/formulier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H5/fstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/H5/fstyle.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/H5/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -75,6 +78,11 @@
       <workItem from="1609583306467" duration="6631000" />
       <workItem from="1609616714606" duration="1427000" />
       <workItem from="1609667881003" duration="17069000" />
+      <workItem from="1610438544141" duration="116000" />
+      <workItem from="1610446156172" duration="2209000" />
+      <workItem from="1610538817843" duration="2532000" />
+      <workItem from="1610610957551" duration="26000" />
+      <workItem from="1611319223832" duration="1201000" />
     </task>
     <task id="LOCAL-00001" summary="made a new website, used grid for the first time.">
       <created>1608694675469</created>
@@ -125,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610019835690</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Making responsive website">
+      <created>1610438610546</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610438610546</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
